@@ -248,9 +248,3 @@ if __name__ == '__main__':
         # par.set_postfix_str(
         #     f'Train Loss: {epoch_loss / len(train_loader):.6f} | Valid Loss: {epoch_loss_v  / len(test_loader):.6f}')
 
-
-
-'''
-ssh -p 41267 root@connect.westc.gpuhub.com
-/InPfT9uXkh
-'''
